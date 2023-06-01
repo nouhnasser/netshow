@@ -19,7 +19,7 @@
 
 .nav__logo {
   position: fixed;
-  top: 10px;
+  top: 30px;
   left: 0;
   width: 80px;
   object-fit: contain;
@@ -30,6 +30,7 @@
 .nav__avatar {
   cursor: pointer;
   position: fixed;
+  top: 30px;
   right: 20px;
   width: 30px;
   height: 30px;
